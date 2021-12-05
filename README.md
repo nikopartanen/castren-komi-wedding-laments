@@ -1,6 +1,6 @@
 # Matthias Alexander Castrén's Komi Wedding Laments
 
-Matthias Alexander Castrén (1813–1852) collected seven wedding laments in Komi language, presumably in 1843 somewhere in the Pechora region. The original manuscripts are archived in the National Library of Finland, and they were published in 1873 with Finnish and German translations of T.G. Aminoff in Acta Societatis Scientiarum Fennicae, one copy being available in the [University of Helsinki Library](https://helda.helsinki.fi/handle/10138/16127) and in the [Internet Archive](https://archive.org/details/actasocietatissc111880suom/page/202/mode/2up).
+Matthias Alexander Castrén (1813–1852) collected seven wedding laments in Komi language, presumably in 1843 somewhere in the Pechora region. The original manuscripts are archived in the National Library of Finland, and they were published in 1873 with Finnish and German translations of T.G. Aminoff in Acta Societatis Scientiarum Fennicae, digitized copies being available in the [University of Helsinki Library](https://helda.helsinki.fi/handle/10138/16127) and in the [Internet Archive](https://archive.org/details/actasocietatissc111880suom/page/202/mode/2up).
 
 In this dataset different versions of the text, especially in Komi and Finnish, are aligned with another. The Komi transcription provided by Castrén, and later edited by Aminoff, is also presented in a version in Standard Zyrian Komi orthography, or a variety of that used in recent dialect dictionary and corpora. 
 

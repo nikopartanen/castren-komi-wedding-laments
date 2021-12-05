@@ -35,11 +35,34 @@
         <Int>-1</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>0</Long>
+        <Long>10000</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="geo">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="part">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="bio">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="phonet-UPA@bundle:Castren">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="comment">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="ref@bundle:Castren">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="orth@bundle:Castren">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
             <Int>0</Int>
@@ -118,7 +141,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>479340</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
         <Long>0</Long>
@@ -170,7 +193,7 @@
         <String/>
     </pref>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>0</Int>
+        <Int>2</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

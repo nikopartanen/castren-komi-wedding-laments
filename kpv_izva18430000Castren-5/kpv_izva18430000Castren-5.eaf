@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="unspecified"
-    DATE="2021-12-04T14:13:19+02:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2021-12-05T17:04:21+02:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:61ee3117-e199-49ca-8258-9415d9cf90e1</PROPERTY>
@@ -59,148 +59,143 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-1</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.001</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-2</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.002</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-3</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.003</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-4</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.004</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-5</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.005</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
                 TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-6</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.006</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-7</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.007</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
                 TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-8</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.008</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-9</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.009</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
                 TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-10</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.010</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-11</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.011</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-12</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.012</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
                 TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-13</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.013</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
                 TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-14</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.014</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-15</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.015</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
                 TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-16</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.016</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-17</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.017</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
                 TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-18</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.018</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
                 TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-19</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.019</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
                 TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-20</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.020</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
                 TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-21</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.021</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
                 TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-22</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.022</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
                 TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>kpv_izva18440000Castren-5-23</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kpv_izva18430000Castren-5.023</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part(spoken)T" TIER_ID="part"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="geoT" TIER_ID="geo"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="bioT" TIER_ID="bio"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="commentT" TIER_ID="comment"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="noteT"
-        PARENT_REF="part" TIER_ID="note(part)"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phonol-cyrT"
         PARENT_REF="ref@bundle:Castren" PARTICIPANT="bundle:Castren" TIER_ID="phonol-CYR@bundle:Castren"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translit-latT"
@@ -335,10 +330,6 @@
         PARENT_REF="ref@bundle:Castren" PARTICIPANT="bundle:Castren" TIER_ID="phonet-IPA@bundle:Castren"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phonol-latT"
         PARENT_REF="ref@bundle:Castren" PARTICIPANT="bundle:Castren" TIER_ID="phonol-LAT@bundle:Castren"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="noteT"
-        PARENT_REF="geo" TIER_ID="note(geo)"/>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="noteT"
-        PARENT_REF="bio" TIER_ID="note(bio)"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft-engT"
         PARENT_REF="orth@bundle:Castren" PARTICIPANT="bundle:Castren" TIER_ID="ft-eng@bundle:Castren"/>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft-deuT"

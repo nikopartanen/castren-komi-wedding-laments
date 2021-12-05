@@ -4,71 +4,24 @@
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1440,875</Object>
     </pref>
-    <prefGroup key="TranscriptionTable.ColumnWidth">
-        <pref key="1">
-            <Int>386</Int>
-        </pref>
-        <pref key="2">
-            <Int>386</Int>
-        </pref>
-        <pref key="3">
-            <Int>385</Int>
-        </pref>
-    </prefGroup>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
     </pref>
-    <pref key="LayoutManager.MediaAreaWidth">
-        <Int>205</Int>
-    </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
-    <pref key="LayoutManager.ControlPanelWidth">
-        <Int>213</Int>
-    </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>part</String>
-    </pref>
-    <prefGroup key="TranscriptionTable.ColumnOrder"/>
-    <pref key="TranscriptionTable.LastActiveRow">
-        <Int>69</Int>
+        <String>ref@bundle:Castren</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>690000</Long>
+        <Long>0</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
-        <Int>2</Int>
+        <Int>1</Int>
     </pref>
-    <prefGroup key="TranscriptionMode.Temp.TierColors">
-        <pref key="geo">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
-        <pref key="part">
-            <Object class="java.awt.Color">160,0,160</Object>
-        </pref>
-        <pref key="bio">
-            <Object class="java.awt.Color">90,160,90</Object>
-        </pref>
-        <pref key="ft-deu@bundle:Castren">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-        <pref key="comment">
-            <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
-        <pref key="ref@bundle:Castren">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-        <pref key="ft-fin@bundle:Castren">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-        <pref key="orth@bundle:Castren">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
             <Int>0</Int>
@@ -113,60 +66,45 @@
         <String>Creation Date</String>
         <String>Modification Date</String>
     </prefList>
-    <pref key="MediaControlVolume">
-        <Float>1.0</Float>
-    </pref>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,25</Object>
     </pref>
-    <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="TimeLineViewer.ReducedTierHeight">
         <Boolean>true</Boolean>
     </pref>
-    <prefList key="TranscriptionTable.ColumnTypes">
-        <String>orthT</String>
-        <String>ft-deuT</String>
-        <String>ft-finT</String>
-    </prefList>
     <pref key="SelectionBeginTime">
-        <Long>680000</Long>
+        <Long>0</Long>
     </pref>
-    <prefList key="MultiTierViewer.HiddenTiers">
-        <String>geo</String>
-        <String>note(geo)</String>
-        <String>bio</String>
-        <String>note(bio)</String>
-        <String>comment</String>
-    </prefList>
-    <prefGroup key="TranscriptionTable.TierMap">
-        <prefList key="ref@bundle:Castren">
-            <String>orth@bundle:Castren</String>
-            <String>ft-deu@bundle:Castren</String>
-            <String>ft-fin@bundle:Castren</String>
-        </prefList>
-    </prefGroup>
-    <pref key="MediaControlRate">
-        <Float>1.0</Float>
-    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>688130</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>680044</Long>
+        <Long>0</Long>
     </pref>
+    <prefGroup key="TierColors">
+        <pref key="geo">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="part">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="bio">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="comment">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="ref@bundle:Castren">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>ref@bundle:Castren</String>
         <String>phonol-CYR@bundle:Castren</String>
         <String>translit-LAT@bundle:Castren</String>
         <String>note(ref)@bundle:Castren</String>
-        <String>phonet-UPA@bundle:Castren</String>
         <String>orth@bundle:Castren</String>
-        <String>word@bundle:Castren</String>
-        <String>lemma@bundle:Castren</String>
-        <String>morph@bundle:Castren</String>
-        <String>pos@bundle:Castren</String>
-        <String>lg(word)@bundle:Castren</String>
-        <String>note(word)@bundle:Castren</String>
         <String>ft-eng@bundle:Castren</String>
         <String>ft-deu@bundle:Castren</String>
         <String>ft-nob@bundle:Castren</String>
@@ -178,6 +116,7 @@
         <String>lg(orth)@bundle:Castren</String>
         <String>phonet-IPA@bundle:Castren</String>
         <String>phonol-LAT@bundle:Castren</String>
+        <String>phonet-UPA@bundle:Castren</String>
         <String>part</String>
         <String>note(part)</String>
         <String>geo</String>
@@ -186,26 +125,6 @@
         <String>note(bio)</String>
         <String>comment</String>
     </prefList>
-    <prefGroup key="TierColors">
-        <pref key="geo">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
-        <pref key="part">
-            <Object class="java.awt.Color">160,0,160</Object>
-        </pref>
-        <pref key="bio">
-            <Object class="java.awt.Color">90,160,90</Object>
-        </pref>
-        <pref key="comment">
-            <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
-        <pref key="ref@bundle:Castren">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
-    </prefGroup>
-    <pref key="TranscriptionTable.LastActiveColumn">
-        <String>ft-finT</String>
-    </pref>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>2</Int>
     </pref>
@@ -213,5 +132,4 @@
         <String>Sender</String>
         <String>Recipient</String>
     </prefList>
-    <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>

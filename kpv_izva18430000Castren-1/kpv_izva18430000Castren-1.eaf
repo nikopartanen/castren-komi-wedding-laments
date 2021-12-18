@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="unspecified"
-    DATE="2021-12-05T17:00:03+02:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2021-12-18T12:38:28+02:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:61ee3117-e199-49ca-8258-9415d9cf90e1</PROPERTY>
@@ -535,17 +535,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>Юрсяне мый кыеныс, юрси йыытиэ,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Юрсяне мый кыеныс, юрси йыытіэ,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>коксяне мый кыеныс менэ, кокчунь йыытиэ?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>коксяне мый кыеныс менэ, кокчунь йыытіэ?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>Кисянь тай менэ кыеныс, кичунь йыытиэ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Кисянь тай менэ кыеныс, кичунь йыытіэ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
